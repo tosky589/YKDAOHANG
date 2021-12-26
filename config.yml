@@ -1,8 +1,8 @@
 # title of website
-title: YKDAOHANG
+title: 导航页
 
 # description of website
-description: tosky589's navigation site
+description: 常用网站
 
 # favicon of website
 favicon: "https://github.com/tosky589.png?size=40"
@@ -14,7 +14,7 @@ url: https://tosky589.github.io/YKDAOHANG/
 github: "https://github.com/tosky589"
 
 # footer message
-footer: © 2021-2021 @tosky589
+footer: © 2021-2021 @zfddd
 
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
@@ -26,7 +26,7 @@ google_analytics: "G-EXE1PJ8CR2"
 webstack:
   search:
     enabled: true
-    default: google
+    default: baidu
     # 可选的搜索引擎
     engines:
       - google
@@ -40,18 +40,18 @@ content:
   categories:
     - name: 常用推荐
       sites:
-        - name: Dribbble
-          description: 全球UI设计师作品分享平台。
-          url: https://dribbble.com/
-        - name: Behance
-          description: Adobe旗下的设计师交流平台，来自世界各地的设计师在这里分享自己的作品。
-          url: https://behance.net/
-        - name: UI中国
-          description: 图形交互与界面设计交流、作品展示、学习平台。
-          url: http://www.ui.cn/
-        - name: 站酷
-          description: 中国人气设计师互动平台
-          url: http://www.zcool.com.cn/
+        - name: 百度
+          description: 国内最大的搜索网站平台。
+          url: https://www.baidu.com/
+        - name: 淘宝网
+          description: 最大的购物网站，日常购物。
+          url: https://www.taobao.com/
+        - name: 京东
+          description: 京东JD.COM官网 多快好省 只为品质生活。
+          url: http://www.jd.com/
+        - name: 有赞
+          description: 国内知名微信小程序商城站点
+          url: https://account.youzan.com/login
         - name: Pinterest
           description: 全球美图收藏采集站
           url: https://www.pinterest.com/
