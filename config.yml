@@ -52,27 +52,27 @@ content:
         - name: 有赞
           description: 国内知名微信小程序商城站点
           url: https://account.youzan.com/login
-        - name: Pinterest
-          description: 全球美图收藏采集站
-          url: https://www.pinterest.com/
-        - name: 花瓣
-          description: 收集灵感,保存有用的素材
-          url: http://huaban.com/
-        - name: 优设
-          description: 设计师交流学习平台
-          url: http://www.uisdc.com/
-        - name: Producthunt
-          description: 发现新鲜有趣的产品
-          url: https://www.producthunt.com/
-        - name: Youtube
-          description: 全球最大的学习分享平台
-          url: https://www.youtube.com/
-        - name: Google
-          description: 全球最大的UI学习分享平台
-          url: https://www.google.com/
-        - name: Medium
-          description: Read, write and share stories that matter
-          url: https://medium.com/
+        - name: IPOS
+          description: IPOS后台系统。
+          url: 
+        - name: BI系统
+          description:日常报表、数据分析。
+          url: 
+        - name: M6会员系统
+          description: 会员注册、会员营销系统。
+          url: 
+        - name: 数据决策系统
+          description: 查询日常报表和数据。
+          url: http://report.zk211.com:8890/zk9/ReportServer?op=fs_load&cmd=fs_signin&_=1541217700429
+        - name: 阿里云
+          description: 最大的云服务供应商。
+          url: https://www.aliyun.com/
+        - name: DK邮箱
+          description: DK企业邮箱系统
+          url: http://mail.dronkEE.com/
+        - name: 新浪邮箱
+          description: 新浪网免费个人邮箱。
+          url: https://mail.sina.com.cn/
     - name: 界面灵感
       sites:
         - name: 咕噜素材
